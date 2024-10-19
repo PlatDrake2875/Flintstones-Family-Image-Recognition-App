@@ -12,5 +12,3 @@ matplotlib==3.8.2
 Run the main.py file.
 The project writes files in the ../saves folder for descriptors and svm models. 
 For evaluation data, it is written in ../task1 and ../task2 respectively.
-
-Unfortunately, it needs the training data from the homework assignment to work, because it doesn't have pretrained SVMs
